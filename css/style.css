@@ -1,0 +1,14 @@
+html,
+body {
+    width: 100%;
+}
+
+.map {
+    width: 100%;
+    height: 500px;
+    background-color: #EB3B41;
+}
+
+path {
+    stroke: #EB3B41;
+}
